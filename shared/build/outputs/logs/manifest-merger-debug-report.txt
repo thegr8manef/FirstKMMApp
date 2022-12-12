@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml:2:13-3:52
+INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml:2:13-3:52
+INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml:2:13-3:52
+	package
+		ADDED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml:3:16-49
+		INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+		INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+	xmlns:android
+		ADDED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml:2:23-81
+uses-sdk
+INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml reason: use-sdk injection requested
+INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+	android:targetSdkVersion
+		INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+		ADDED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+		INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+	android:minSdkVersion
+		INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+		ADDED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
+		INJECTED from /Users/agencemobelite/StudioProjects/NoteAppKMMTest/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest1122253496154155264.xml
